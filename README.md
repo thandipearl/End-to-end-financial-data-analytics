@@ -3,7 +3,7 @@
 ## Project Overview
 This project simulates a **real-world KPMG Data & Analytics advisory engagement**, transforming raw financial data into **executive-level insights and strategic recommendations**.
 
-The objective goes beyond reporting metrics — it focuses on **business decision-making**, cost optimization, risk mitigation, and profitability analysis, aligned with consulting best practices.
+The objective goes beyond reporting metrics, it focuses on **business decision-making**, cost optimization, risk mitigation, and profitability analysis, aligned with consulting best practices.
 
 ---
 
@@ -20,7 +20,7 @@ To support leadership decision-making by:
 - **Microsoft Excel** — Data cleaning & data quality remediation  
 - **MySQL** — Exploratory Data Analysis (EDA) & SQL views  
 - **Tableau Public** — Interactive executive dashboard  
-- **GitHub** — Version control & documentation  
+
 
 ---
 
@@ -128,7 +128,6 @@ This project demonstrates my ability to:
 - Communicate insights to non-technical stakeholders
 - Operate in a **professional consulting environment**
 
-This aligns directly with expectations for a **Junior Data Analyst role at KPMG**.
 
 ---
 

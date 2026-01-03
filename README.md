@@ -3,7 +3,7 @@
 ## Project Overview
 This project simulates a **real-world KPMG Data & Analytics advisory engagement**, transforming raw financial data into **executive-level insights and strategic recommendations**.
 
-The objective goes beyond reporting metrics, it focuses on **business decision-making**, cost optimization, risk mitigation, and profitability analysis, aligned with consulting best practices.
+The objective goes beyond reporting metrics, it focuses on **business decision-making**, cost optimization, risk mitigation and profitability analysis, aligned with consulting best practices.
 
 ---
 
@@ -45,7 +45,7 @@ To support leadership decision-making by:
 
 - Exported the cleaned dataset from Excel as CSV
 - Imported data into **MySQL Workbench**
-- Validated row counts, schema consistency, and missing values
+- Validated row counts, schema consistency and missing values
 - Standardized column names for SQL compatibility
 
 ---
@@ -58,7 +58,7 @@ Key business questions answered:
 - Which clients consistently produce losses?
 - How volatile are revenue and profit trends over time?
 
-EDA was conducted using aggregation, filtering, and trend analysis in SQL.
+EDA was conducted using aggregation, filtering and trend analysis in SQL.
 
 ---
 
@@ -82,7 +82,7 @@ An interactive Tableau dashboard was built to provide:
 - Industry-level margin comparison
 - Identification of loss-making clients
 - Monthly revenue vs profit trend analysis
-- Global filters for Region, Industry, and Client
+- Global filters for Region, Industry and Client
 
 The dashboard is designed for **executive decision-making**, not just visualization.
 

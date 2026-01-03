@@ -132,7 +132,7 @@ This project demonstrates my ability to:
 
 ## ⚖️ Data Ethics & Usage
 The dataset is entirely synthetic and does not contain real client or KPMG data.
-It is intended solely for demonstration, learning, and portfolio purposes.
+It is intended solely for demonstration, learning and portfolio purposes.
 The analytical focus is on process, judgment and insight generation, not data ownership.
 
 ---

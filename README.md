@@ -24,7 +24,7 @@ To support leadership decision-making by:
 
 ---
 
-## Step 1: Data Cleaning & Quality Remediation (Excel)
+## Data Cleaning & Quality Remediation (Excel)
 
 ### Data Quality Issues Identified
 - Missing values in `Operating_Cost_ZAR`
@@ -41,7 +41,7 @@ To support leadership decision-making by:
 
 ---
 
-## Step 2: Data Loading & Validation (MySQL)
+## Data Loading & Validation (MySQL)
 
 - Exported the cleaned dataset from Excel as CSV
 - Imported data into **MySQL Workbench**
@@ -50,7 +50,7 @@ To support leadership decision-making by:
 
 ---
 
-## Step 3: Exploratory Data Analysis (EDA) in SQL
+## Exploratory Data Analysis (EDA) in SQL
 
 Key business questions answered:
 - Which regions drive overall profitability?
@@ -62,7 +62,7 @@ EDA was conducted using aggregation, filtering, and trend analysis in SQL.
 
 ---
 
-## Step 4: SQL Views for Scalable Reporting
+## SQL Views for Scalable Reporting
 
 Reusable SQL views were created to support analytics and dashboarding:
 
@@ -75,7 +75,7 @@ These views enable clean separation between raw data and reporting logic.
 
 ---
 
-## Step 5: Executive Dashboard (Tableau)
+## Executive Dashboard (Tableau)
 
 An interactive Tableau dashboard was built to provide:
 - Regional profit contribution analysis
